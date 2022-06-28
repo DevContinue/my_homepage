@@ -4,6 +4,7 @@
         <HeroCardImage />
         <HeroCardIntro />
     </section>
+
     
 </template>
 
@@ -25,5 +26,9 @@ export default {
         display: flex;
         justify-content: space-between;
         flex-direction: row;
+
+        @include small {
+            flex-direction: column;
+        }
     }
 </style>
