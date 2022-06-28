@@ -5,8 +5,20 @@
         <p class="content">Aktuell arbeite ich als Lagerist und
         arbeite nebenher an meiner Developer Fähigkeiten, um als Quereinsteiger
         mein Traum als Entwickler zu verwirklichen. </p>
-    </article>    
+    <SocialNetworks />
+    </article> 
+    
 </template>
+
+<script>
+import SocialNetworks from "@/components/SocialNetworks.vue";
+
+export default {
+    components: {
+        SocialNetworks
+    }
+}
+</script>
 
 <style lang="scss" scoped>
 .intro-text {
