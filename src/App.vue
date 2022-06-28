@@ -1,10 +1,12 @@
 <script>
 
 import HeroCard from "@/components/HeroCard.vue";
+import Footer from "@/components/Footer.vue";
 
 export default {
     components: {
-        HeroCard
+        HeroCard,
+        Footer
     }
 }
 
@@ -12,8 +14,10 @@ export default {
 
 <template>
     <main>
-        <HeroCard />
+        <HeroCard />       
     </main>
+
+    <Footer />
 </template>
 
 <style lang="scss">
