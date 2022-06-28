@@ -29,6 +29,7 @@ export default {
 
         @include small {
             flex-direction: column;
+            margin-left: 2rem;
         }
     }
 </style>
