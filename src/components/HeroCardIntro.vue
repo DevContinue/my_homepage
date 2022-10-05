@@ -1,7 +1,7 @@
 <template>
     <article class="intro-text">
         <p class="intro-hello">Hi, mein Name ist Sascha Kapahnke.</p>
-        <h1>Ich bin ein Hobby Font-End Developer & UI/UX Designer</h1>
+        <h1>Ich bin ein Hobby Frontend Developer & UI/UX Designer</h1>
         <p class="content">Aktuell arbeite ich als Lagerist und
         arbeite nebenher an meiner Developer Fähigkeiten, um als Quereinsteiger
         mein Traum als Entwickler zu verwirklichen. </p>
