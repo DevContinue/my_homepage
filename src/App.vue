@@ -2,17 +2,20 @@
 
 import HeroCard from "@/components/HeroCard.vue";
 import Footer from "@/components/Footer.vue";
+import Header from "@/components/Header.vue";
 
 export default {
     components: {
         HeroCard,
-        Footer
+        Footer,
+        Header,
     }
 }
 
 </script>
 
 <template>
+    <Header />
     <main>
         <HeroCard />       
     </main>
