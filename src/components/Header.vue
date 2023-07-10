@@ -1,7 +1,6 @@
 <template>
     <header>
-        <a href="https://aequitas-ag.de/" target="_blank">My Job</a>
-        <a href="#">My Skills</a>
+
     </header>
 </template>
 

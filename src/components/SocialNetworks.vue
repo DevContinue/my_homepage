@@ -3,7 +3,7 @@
         <a href="https://github.com/DevContinue/" target="_blank" rel="noopener noreferrer">
             <GitHubIcon />
         </a>
-         <a href="https://linkedin.com/in/sascha-kapahnke-a08783222/" target="_blank" rel="noopener noreferrer">
+         <a href="https://linkedin.com/in/sascha-kapahnke/" target="_blank" rel="noopener noreferrer">
             <Linkedin />
         </a>
       </div>

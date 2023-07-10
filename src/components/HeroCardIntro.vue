@@ -1,8 +1,10 @@
 <template>
     <article class="intro-text">
-        <p class="intro-hello">Hi, ich heiße Sascha Kapahnke</p>
-        <h1>Ich bin ein Junior Frontend Developer</h1>
-        <p class="content">Aktuell arbeite ich als Entwickler für die Aequitas AG</p>
+        <p class="intro-hello">Hey ich heiße Sascha Kapahnke,</p>
+        <h1>und bin Web-Entwickler,</h1>
+        <p class="content">Aktuell arbeite ich als Entwickler für die Aequitas AG,</p>
+        <p class="content" style="margin-top: -14px">wenn Sie spannende Projekte umsetzten wollen oder</p>
+        <p class="content" style="margin-top: -14px">Hilfe brauchen, kontaktieren Sie mich gerne.</p>
     <SocialNetworks />
     </article> 
     
